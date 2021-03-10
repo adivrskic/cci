@@ -1,0 +1,15 @@
+{
+  "name": "cci",
+  "version": "1.0.0",
+  "description": "Cracking the Coding Interview Questions & Answers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Adi Vrskic",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
